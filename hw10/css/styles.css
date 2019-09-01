@@ -1,0 +1,11 @@
+* {
+    outline: 1px solid red;
+}
+
+.cont svg {
+    display: block;
+    width: 100px;
+    height: 200px;
+    background-color: rgb(232, 255, 25);
+    color: aqua;
+}
